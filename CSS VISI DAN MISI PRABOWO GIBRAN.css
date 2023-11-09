@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.JUDUL {
+    text-align: center;
+    color: #333;
+}
+
+.gibran {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px 0px rgb(109, 109, 109);
+    border: 1px solid rgb(108, 108, 108);
+    margin: 30px auto;
+}
+
+.prabowo {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(109, 109, 109);
+    border: 1px solid rgb(108, 108, 108);
+    margin: 30px auto;
+}
+
+.visimisi {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(109, 109, 109);
+    border: 1px solid rgb(108, 108, 108);
+    margin: 30px auto;
+}
+p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 20%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888888;
+}
